@@ -1,4 +1,4 @@
-console.log("explicit#0001");
+console.log("xurco");
 
 let counter = 0; let Title = 'xurco.lol'; let direction = true;
 aniTitle = setInterval(function() {
