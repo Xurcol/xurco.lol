@@ -37,7 +37,7 @@
 #brand {
   margin-left: 0.65pc;
   text-decoration: none;
-  text-shadow: 0 0 1em #990000; /* Changed color to red and increased blur radius */
+  text-shadow: 0 0 1em #ffffff; /* Changed color to red and increased blur radius */
   font-family: 'Arial', monospace;
   font-weight: bold;
 }
@@ -103,7 +103,7 @@ body {
 body {
   font-family: 'Roboto Mono', monospace;
   background-color:#000!important;
-  color:#FF0000!important
+  color:#ffffff!important
 }
 a {
   text-decoration:none;
